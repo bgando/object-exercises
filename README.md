@@ -1,5 +1,5 @@
 # [Part 1: eFarmony Data Structures](id:pt1)
-[Back to Contents](#top)
+[Back to Home](https://github.com/bgando/JS102)
 
 In this section we will be setting up the data structures that we will be using throughout the project. We will be creating and nesting objects in arrays to reinforce concepts we learned in lecture.
 
