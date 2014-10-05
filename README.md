@@ -3,7 +3,7 @@
 
 In this section we will be setting up the data structures that we will be using throughout the project. We will be creating and nesting objects in arrays to reinforce concepts we learned in lecture.
 
-**You will be placing all your code into the part1.js file for Part 1.** 
+**You will be placing all your code into the scripts.js file for Part 1.** 
 
 ---
 
