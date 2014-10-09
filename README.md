@@ -37,4 +37,4 @@ With Bracket Notation…
 - Write an if/else statement in your loop
   -   If the key is `username`, console.log('Hi my name is ' + ___) //fill in with object's username value
   -   If the key is `tagline`, console.log('I like to say ' + ___) //fill in with object's tagline value
--   What happens if you return 'Hi my name is ' + <username> instead of console.log() inside the loop?
+-   What happens if you return 'Hi my name is ' + ___ instead of using console.log() inside the loop?
