@@ -36,7 +36,7 @@ With Bracket Notation…
 Let's go over some concepts:
 
 - What are the different ways you can add properties and values to objects? 
-- What if you wanted to add a property to an object that had a weird symbol?
+- Which of these methods would you use you wanted to add a property to an object that had a weird symbol (think '&')?
 - What about if the property is a variable, how does that change the syntax?
 
 ##### Loops
