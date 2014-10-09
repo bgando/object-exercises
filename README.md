@@ -7,7 +7,7 @@ In this section we will explore how to represent our eFarmony data as a JavaScri
 
 ---
 
-### [Step 1: Animal User Model](id:model) 
+[Step 1: Animal User Model](id:model) 
 This object will be the model of a single animal user. Extra points if you get the pun in the last sentence.
 
 ##### Object
