@@ -3,7 +3,7 @@
 
 In this section we will be explore how to represent our eFarmony data as a JavaScript object.
 
-**You will be placing all your code into the scripts.js file for Part 1.** 
+**You will be placing all your code into the scripts.js file.** 
 
 ---
 
