@@ -1,7 +1,7 @@
-# [Part 1: eFarmony Data Structures](id:pt1)
+# [eFarmony Data Structures: Objects as Data Models](id:pt1)
 [Back to Home](https://github.com/bgando/JS102)
 
-In this section we will be explore how to represent our eFarmony data as an JavaScript object.
+In this section we will be explore how to represent our eFarmony data as a JavaScript object.
 
 **You will be placing all your code into the scripts.js file for Part 1.** 
 
