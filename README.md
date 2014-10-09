@@ -31,13 +31,6 @@ With Bracket Notation…
 ``` 
   { username: 'DaffyDuck', tagline: 'Yippeee!', noises: [] }
   ```
-  
-##### Review
-Let's go over some concepts:
-
-- What are the different ways you can add properties and values to objects? 
-- Which of these methods would you use if you wanted to add a property to an object that had a weird symbol (think '&')?
-- What about if the property is a variable, how does that change the syntax?
 
 ##### Loops
 - Loop through the properties of your animal object. 
@@ -46,3 +39,10 @@ Let's go over some concepts:
   -   If the key is `username`, console.log('Hi my name is ' + ___) //fill in with object's username value
   -   If the key is `tagline`, console.log('I like to say ' + ___) //fill in with object's tagline value
 -   What happens if you return 'Hi my name is ' + ___ instead of using console.log() inside the loop?
+
+##### Review
+Let's go over some concepts:
+
+- What are the different ways you can add properties and values to objects? 
+- Which of these methods would you use if you wanted to add a property to an object that had a weird symbol (think '&')?
+- What about if the property is a variable, how does that change the syntax?
