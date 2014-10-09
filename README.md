@@ -31,7 +31,7 @@ With Bracket Notation…
   { username: 'DaffyDuck', tagline: 'Yippeee!', noises: [] }
   ```
 
-Loops
+##### Loops
 - Loop through the properties of your animal object. 
 - Count everytime it loops to keep track of the number of properties on your object
 - Write an if/else statement in your loop
