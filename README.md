@@ -31,6 +31,13 @@ With Bracket Notation…
 ``` 
   { username: 'DaffyDuck', tagline: 'Yippeee!', noises: [] }
   ```
+  
+##### Review
+Let's go over some concepts:
+
+- What are the different ways you can add properties and values to objects? 
+- What if you wanted to add a property to an object that had a weird symbol?
+- What about if the property is a variable, how does that change the syntax?
 
 ##### Loops
 - Loop through the properties of your animal object. 
